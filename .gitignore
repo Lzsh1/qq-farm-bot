@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Sensitive data - accounts should NOT be committed
+data/accounts.json
+
+# User specific config (optional - you can commit a template)
+# data/config.json
+# data/notify-config.json
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# Environment
+.env
+.env.local
+
+# Temporary files
+share.txt
+*.tmp

@@ -1,0 +1,23 @@
+{
+  "platform": "qq",
+  "farmInterval": 5,
+  "friendInterval": 1,
+  "plantMode": "manual",
+  "plantSeedId": 20037,
+  "sellInterval": 300,
+  "features": {
+    "autoHarvest": true,
+    "autoPlant": true,
+    "autoFertilize": true,
+    "autoWeed": true,
+    "autoBug": true,
+    "autoWater": true,
+    "friendPatrol": true,
+    "autoSteal": true,
+    "friendHelp": true,
+    "autoTask": true,
+    "autoSell": true,
+    "autoPutBadThings": true,
+    "autoBuyFertilizer": false
+  }
+}

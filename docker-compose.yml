@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  qq-farm-bot:
+    image: qt0361/qq-farm-bot:latest
+    container_name: qq-farm-bot
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./data:/app/data
+      - ./share.txt:/app/share.txt
+    environment:
+      - TZ=Asia/Shanghai
