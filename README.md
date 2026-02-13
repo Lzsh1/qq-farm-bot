@@ -16,6 +16,7 @@
 ```bash
 docker-compose up -d
 ```
+arm版本将docker-compose.yml中的image改为qt0361/qq-farm-bot:arm64
 ### 访问控制面板
 
 打开浏览器访问：
