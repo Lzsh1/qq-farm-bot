@@ -26,5 +26,4 @@ Thumbs.db
 .env.local
 
 # Temporary files
-share.txt
 *.tmp
