@@ -1,5 +1,5 @@
 本工具仅供学习和开发测试使用，请勿用于非法用途。
-本项目ai开发，bug很多可以提issue，我会尽快修复。
+本项目ai开发，bug很多可以提issue，我会尽快修复。最好点个star
 # QQ 经典农场助手
 
 一个智能化的 QQ 经典农场托管工具，支持自动收菜、种植、巡田等功能。
@@ -16,6 +16,7 @@
 ```bash
 docker-compose up -d
 ```
+arm版本将docker-compose.yml中的image改为qt0361/qq-farm-bot:arm64
 ### 访问控制面板
 
 打开浏览器访问：
