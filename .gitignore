@@ -1,9 +1,7 @@
 # Dependencies
 node_modules/
 
-# Sensitive data - accounts should NOT be committed
-data/accounts.json
-share.txt
+# Sensitive data
 
 
 # User specific config (optional - you can commit a template)
