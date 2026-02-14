@@ -3,6 +3,8 @@ node_modules/
 
 # Sensitive data - accounts should NOT be committed
 data/accounts.json
+share.txt
+
 
 # User specific config (optional - you can commit a template)
 # data/config.json
