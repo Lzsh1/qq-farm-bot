@@ -67,6 +67,15 @@ http://localhost:3000
 2. **稳定性**: 支持断线重连和自动恢复
 3. **持久化**: 配置和数据保存在 `data/` 目录
 
+## 界面预览
+
+![登录界面](docs/image/screenshot_01.png)
+![控制面板](docs/image/screenshot_02.png)
+![农场管理](docs/image/screenshot_03.png)
+![好友列表](docs/image/screenshot_04.png)
+![仓库管理](docs/image/screenshot_05.png)
+![设置页面](docs/image/screenshot_06.png)
+
 ## 许可证
 
 MIT License
